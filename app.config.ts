@@ -1,6 +1,6 @@
 export default defineAppConfig({
   general: {
-    title: 'Minted Directory',
+    title: 'BQ-Mint',
     logo: '',
     iconLogo: 'fluent-emoji-flat:leaf-fluttering-in-wind',
     language: 'en',
@@ -9,9 +9,9 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: 'Minted Directory',
-    description: 'Example Description',
-    url: 'https://example.com',
+    name: 'BQ-Mint',
+    description: 'Madbeyk\'s test zone',
+    url: 'https://bq-mint.nuxt.space/',
     favicon: {
       image: '',
       emoji: '🍃',
